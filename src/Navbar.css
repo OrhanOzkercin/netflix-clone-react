@@ -1,0 +1,30 @@
+.nav {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	padding: 0px;
+	height: 60px;
+	z-index: 2;
+	/* Animations */
+	transition-timing-function: ease-in;
+	transition: all 0.5s;
+}
+
+.nav__logo,
+.nav__user {
+	height: 30px;
+}
+
+.nav__list {
+	display: flex;
+	justify-content: space-between;
+	position: fixed;
+	z-index: 2;
+	width: 100%;
+	padding: 1rem 3rem;
+}
+
+.nav__black {
+	background-color: #111;
+	opacity: 0 8;
+}
