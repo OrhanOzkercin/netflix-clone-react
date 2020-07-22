@@ -17,7 +17,7 @@ In this project my aim was imitate Netflix homepage. Data is coming from an API 
 
 ## Installation
 
-- Step 1: You need to run `Yarn start` command on terminal.
+- Step 1: You need to run `yarn` command on terminal.
 - Step 2: You need to have [TMBD API](https://www.themoviedb.org/documentation/api) Api key to get movies and series information.
 - Step 3: After you get api key, you need to reate `.env.local` file to your root folder and after that you need to define variable for your api key. `I.E: REACT_APP_API_KEY = 'YOUR_API_KEY'`
 - Step 4: After steps I mention above you can start your application with `yarn start` command.
