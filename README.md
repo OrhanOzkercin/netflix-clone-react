@@ -2,7 +2,11 @@
 
 In this project my aim was imitate Netflix homepage. Data is coming from an API ([https://www.themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)). I used React Hooks for this project.
 
-### Live Demo => [http://netflix.orhanozkercin.com/](http://netflix.orhanozkercin.com/)
+### 🎆✨ Live Demo => [http://netflix.orhanozkercin.com/](http://netflix.orhanozkercin.com/)
+
+## Author ✍️  
+
+👤 <b> Orhan Özkerçin </b>
 
 ## Built With
 
